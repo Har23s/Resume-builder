@@ -6,4 +6,4 @@ The system then processes this information and automatically **organizes it into
 
 Additionally, advanced Resume Builders may include **ATS (Applicant Tracking System) optimization**, meaning the generated resumes are formatted and keyword-optimized to pass through automated hiring systems easily. Some even include **AI suggestions** to improve phrasing, highlight strengths, and tailor resumes for specific job roles.
 
-In summary, the Resume Builder simplifies the resume creation process by combining **user-friendly input forms, professional templates, and intelligent automation**, helping users craft an impactful resume within minutes.
+In summary, the Resume Builder simplifies the resume creation process by combining **user-friendly input forms, professional templates, and intelligent automation, helping users craft an impactful resume within minutes.
