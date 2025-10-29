@@ -16,11 +16,11 @@ async function TextEditor(element) {
 }
 
 let workExpdetails;
-TextEditor(form["workexp"]).then(nEditor => {
+TextEditor(form["workexpp"]).then(nEditor => {
   workExpdetails = nEditor
 })
 let Academic;
-TextEditor(form["academics"]).then(nEditor => {
+TextEditor(form["academicss"]).then(nEditor => {
   Academic = nEditor
 })
 let Skills;
