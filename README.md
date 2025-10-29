@@ -4,6 +4,6 @@ Users start by entering their **personal information**, such as name, contact nu
 
 The system then processes this information and automatically **organizes it into a structured resume layout**. Users can choose from different **templates** (modern, minimal, creative, or corporate) to match their career goals. They can **edit sections in real-time**, preview the final document instantly, and download it as a **PDF file** for job applications.
 
-Additionally, advanced Resume Builders may include **ATS (Applicant Tracking System) optimization**, meaning the generated resumes are formatted and keyword-optimized to pass through automated hiring systems easily. Some even include **AI suggestions** to improve phrasing, highlight strengths, and tailor resumes for specific job roles.
+Additionally, advanced Resume Builders may include **ATS (Applicant Tracking System) optimization**, meaning the generated resumes are formatted and keyword-optimized to pass through automated hiringg systems easily. Some even include **AI suggestions** to improve phrasing, highlight strengths, and tailor resumes for specific job roles.
 
-In summary, the Resume Builder simplifies the resume creation process by combining **user-friendly input forms, professional templates, and intelligent automation, helping users craft an impactful resume within minutes.
+In summary, the Resume Builder simplifies the resume creation process by combining **user-friendly input forms, professional templates, and intelligent automation, helping users craft an impactful resume within minutess.
