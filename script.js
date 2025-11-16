@@ -77,7 +77,7 @@ function toggle() {
            <div class="col-1 ms-5">
            <img class="img-thumbnail px-1" src="${profileSrc}" alt="profile">
            </div>
-            <div class="col-8 ms-5">
+            <div class="col-9 ms-5">
             <h1>${form["name"].value}</h1>
             <h3>${form["title"].value}</h3>
             <p>${form["mail"].value}</p></div>
