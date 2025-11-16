@@ -93,7 +93,7 @@ function toggle() {
                  <h2 class="fw-semibold">Achivements</h2>
                  <p>${form["contact"].value}</p>
                </div>
-               <div class="ms-3 col-6">
+               <div class="ms-4 col-6">
                 <h2 class="fw-semibold">Professional experience</h2>
                 ${workExpdetails.getData()}
                 <h2 class="fw-semibold">Education details</h2>
